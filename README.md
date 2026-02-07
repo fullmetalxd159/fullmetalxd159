@@ -1,16 +1,14 @@
-## Hi there 👋
+# Jacob Corlus
 
-<!--
-**fullmetalxd159/fullmetalxd159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with a focus on building reliable, scalable, and maintainable systems.  
+Driven by clean architecture, thoughtful design, and continuous improvement.
 
-Here are some ideas to get you started:
+## Expertise
+- Web & Backend Development  
+- API Design & Integration  
+- Code Quality & System Reliability  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Values
+- Clarity over complexity  
+- Maintainability over shortcuts  
+- Learning as a daily habit
